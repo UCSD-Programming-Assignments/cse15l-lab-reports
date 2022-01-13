@@ -9,3 +9,8 @@ Update 1/13/22 @ 10:51 am
 
 [here is a link](https://www.youtube.com/watch?v=QB7ACr7pUuE) 
 
+> Here is a blockquote
+
+* and
+* a
+* few
