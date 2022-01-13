@@ -7,5 +7,5 @@ Update 1/13/22 @ 10:51 am
 
 **Here are some bold text**
 
-[here is a link] (https://www.youtube.com/watch?v=QB7ACr7pUuE) 
+[here is a link](https://www.youtube.com/watch?v=QB7ACr7pUuE) 
 
