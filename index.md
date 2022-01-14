@@ -4,7 +4,7 @@
 ***
 
 ## Lab Reports
-* [Lab #1](https://vickykuwu.github.io/cse15l-lab-reports/lab-report-1-week2.md) (January 14, 2022)
+* [Lab #1](lab-report-1-week2.md) (January 14, 2022)
 * [Lab #2]() (January 14, 2022)
 * [Lab #3]() (January 14, 2022)
 * [Lab #4]() (January 14, 2022)
