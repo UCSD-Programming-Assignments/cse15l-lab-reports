@@ -1,16 +1,11 @@
-This is my very first website 1/13/22 @ 10:28 am
+# CSE 15L Lab
+**Course Description:** CSE 15L is a hands-on exploration of software development tools and techniques. Investigation of the scientific process as applied to software development and debugging. Emphasis is on weekly hands-on laboratory experiences, development of laboratory notebooking techniques as applied to software design.
 
-Update 1/13/22 @ 10:51 am
+***
 
-# (Heading1) Update @ 11:03:
-*Here are some italics text*
-
-**Here are some bold text**
-
-[here is a link](https://www.youtube.com/watch?v=QB7ACr7pUuE) 
-
-> Here is a blockquote
-
-* and
-* a
-* few
+## Lab Reports
+* [Lab #1](https://vickykuwu.github.io/cse15l-lab-reports/lab-report-1-week2.md) (January 14, 2022)
+* [Lab #2]() (January 14, 2022)
+* [Lab #3]() (January 14, 2022)
+* [Lab #4]() (January 14, 2022)
+* [Lab #5]() (January 14, 2022)
