@@ -92,3 +92,13 @@ In order to optimize remotely running files between the client and the server us
 
 You can also write a command in quotes at the end of an `ssh` command to run it directly on the remote server. 
 * For example, we can write `$ ssh cs15lwi22@ieng6.ucsd.edu "ls"`.
+
+In order to effectively make an local edit and then copying it to the remote server and running it, I suggest having this command saved on a separate document so you wouldn't spend time typing it all out. 
+* `scp WhereAmI.java cs15lwi22akf@ieng6.ucsd.edu:~/; ssh cs15lwi22akf@ieng6.ucsd.edu "ls"; javac WhereAmI.java; java WhereAmI`
+
+After putting the finishing touches on your local edit, we can simply copy and paste the command into our terminal by pressing using our mouse to highlight the command. Then press `ctr+c` and then click on the terminal and press `ctr+v`. Because we already established a key so that we can login without typing in our password, we do not need to use any more commands for copying. The `;` allows us to run multiple commands on the same line. The `ls` is our command to verify that the copy of our file has been successful. 
+
+Here's a snapshot of what the terminal should look like. 
+![Image](Final.PNG)
+
+As you can see, we were able to copy a file to the server and run the code in 4 key strokes. Now that's efficiency if I've ever seen it!
