@@ -99,6 +99,6 @@ In order to effectively make an local edit and then copying it to the remote ser
 After putting the finishing touches on your local edit, we can simply copy and paste the command into our terminal by pressing using our mouse to highlight the command. Then press `ctr+c` and then click on the terminal and press `ctr+v`. Because we already established a key so that we can login without typing in our password, we do not need to use any more commands for copying. The `;` allows us to run multiple commands on the same line. The `ls` is our command to verify that the copy of our file has been successful. 
 
 Here's a snapshot of what the terminal should look like. 
-![Image](Final.PNG)
+![Image](final.PNG)
 
 As you can see, we were able to copy a file to the server and run the code in 4 key strokes. Now that's efficiency if I've ever seen it!
