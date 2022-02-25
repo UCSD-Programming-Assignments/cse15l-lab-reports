@@ -1,10 +1,11 @@
-# Lab #3: Debuggers
+# Lab #4: Debuggers
 
 Here's the link to the markdown-parse repository that I created: https://github.com/vickykuwu/markdown-parse.git
 
 Here's the link to the markdown-parse repository that I reviewed in class: https://github.com/maotcha/markdown-parse
 
 The **first** test that we are doing for both versions of markdown-parse has the following test in code form, what it should look like in VS Code preview, and the test written: 
+
 ```
 `[a link`](url.com)
 
@@ -23,6 +24,7 @@ For motcha's implementation, we saw that the test did pass!
 
 
 The **second** test that we are doing for both versions of markdown-parse has the following test and what it should look like in VS Code preview:
+
 ```
 [a [nested link](a.com)](b.com)
 
@@ -30,6 +32,7 @@ The **second** test that we are doing for both versions of markdown-parse has th
 
 [some escaped \[ brackets \]](example.com)
 ```
+
 ![Image](previewSnippet2.PNG)
 ![Image](labTest2.PNG)
 For my implementation, the test did not pass. Here is what the JUnit output shows for the test failure:
@@ -38,7 +41,9 @@ For motcha's implementation, we saw that the test did not pass. This is what the
 ![Image](MaotchaTest1.PNG)
 
 The **third** test that we are doing for both versions of markdown-parse has the following test and what it should look like in VS Code preview:
-```[this title text is really long and takes up more than 
+
+```
+[this title text is really long and takes up more than 
 one line
 
 and has some line breaks](
@@ -63,6 +68,7 @@ And there's still some more text after that.
 
 And then there's more text
 ```
+
 ![Image](previewSnippet3.PNG)
 ![Image](labTest3.PNG)
 For my implementation, the test did not pass. Here is what the JUnit output shows for the test failure:
