@@ -1,8 +1,8 @@
 # Lab #4: Debuggers
 
-Here's the link to the markdown-parse repository that I created: https://github.com/vickykuwu/markdown-parse.git
+Here's the link to the markdown-parse repository that I created: [Link](https://github.com/vickykuwu/markdown-parse.git)
 
-Here's the link to the markdown-parse repository that I reviewed in class: https://github.com/maotcha/markdown-parse
+Here's the link to the markdown-parse repository that I reviewed in class: [Link](https://github.com/maotcha/markdown-parse)
 
 The **first** test that we are doing for both versions of markdown-parse has the following test in code form, what it should look like in VS Code preview, and the test written: 
 
