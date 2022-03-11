@@ -21,15 +21,16 @@ I believe Joe's output is correct. The following is the code for this specific t
 <
  >
  ```
- There were no parenthesis or brackets thus, the default should simply be  `[]`. I believe my implementation is is correct; however the output is not what we expected. It caught that this test file was missing brackets and in order for it to show the correct output, which is what we wanted. But instead of returning `missing open parenthesis` and `null`, I would simply return the empty brackets. Here is a picture of my code:
+ There were no parenthesis or brackets thus, the default should simply be  `[]`. I believe my implementation is correct; however the output is not what we expected. It caught that this test file was missing brackets, which is what we wanted. But instead of returning `missing open parenthesis` and `null`, I would simply return the empty brackets. Here is a picture of my code that I would alter:
 
 ![Image](5.1Solution.PNG)
 
 ## Second Test
 ![Image](lab5.2.PNG)
+
 In this test, I believe that Joe's output is also correct. The following is the code for this specific test: 
 ```
 foo
 ```
-In this test, there were niether parenthesis or brackets again, which is why `[]` should be the result again. I think my implementation also correctly identifies the problem; however it isn't returning the output as we expected. In order to fix this, I would change the return statement from `missing open parenthesis` and `null` to `[]`. Here is a picture of my code:
+In this test, there were niether parenthesis or brackets again, which is why `[]` should be the result again. I think my implementation also correctly identifies the problem; however it isn't returning the output as we expected. In order to fix this, I would change the return statement from `missing open parenthesis` and `null` to `[]`. Here is a picture of my code that I would alter:
 ![Image](5.2Solution.PNG)
