@@ -8,4 +8,4 @@
 * [Lab #2](./lab-report-2-week-4.html) (January 28, 2022)
 * [Lab #3](./lab-report-5-week-6.html) (Feburary 10, 2022)
 * [Lab #4](./lab-report-7-week-8.html) (Feburary 25, 2022)
-* [Lab #5]() (January 14, 2022)
+* [Lab #5](./lab-report-9-week-10.html) (March 9, 2022)
